@@ -1,0 +1,5 @@
+incident_identifier,disaster_type,incident_location,priority_level,affected_population,reported_casualties,incident_timestamp,response_status,latitude,longitude,incident_description,injured_population,displaced_population,required_resources,available_resources,available_shelter_capacity,current_shelter_occupancy,responding_agency,infrastructure_damage,estimated_loss
+EVT-001,Flood,Nellore,Critical,12000,18,2026-10-18 10:30,Responding,14.4426,79.9865,Severe flooding along coastal districts,140,3200,Boats,Rescue Teams,5000,4800,NDRF,Severe,85000000
+EVT-002,Cyclone,Visakhapatnam,High,4500,3,2026-10-18 11:15,Assessing,17.6868,83.2185,Tropical cyclone approach and high winds,25,800,Medical Kits,Food Packs,3000,1200,SDRF,Moderate,25000000
+EVT-003,Earthquake,Chittoor,Medium,1800,0,2026-10-18 12:00,Contained,13.2172,79.1003,Moderate tremor felt across municipal zone,5,120,Water,Blankets,2000,400,Local Police,Low,5000000
+EVT-004,Landslide,Araku,Low,350,1,2026-10-18 12:45,Contained,18.3273,82.8775,Minor slope failure blocking rural highway,2,40,Excavators,Rescue Teams,1000,150,Municipal,Low,1200000

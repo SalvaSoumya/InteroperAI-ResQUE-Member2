@@ -1,0 +1,9 @@
+incident_type,location,severity,affected_people,reported_time
+Flood,Tirupati,High,1200,2026-10-07 09:30
+Cyclone,Nellore,Critical,3500,2026-10-07 11:00
+Earthquake,Chittoor,Medium,450,2026-10-07 13:15
+Flood,Kadapa,High,1800,2026-10-07 15:00
+Landslide,Visakhapatnam,Critical,900,2026-10-07 16:30
+Cyclone,Ongole,High,2100,2026-10-07 17:15
+Flood,Anantapur,Medium,700,2026-10-07 18:00
+Landslide,Araku,High,550,2026-10-07 18:45

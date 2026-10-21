@@ -1,0 +1,5 @@
+incident_identifier,disaster_type,incident_location,priority_level,latitude,longitude
+INC-01,Wind,District A,Unknown,34.1,-84.1
+INC-02,Hail,District B,Unknown,34.2,-84.2
+INC-03,Rain,District C,Unknown,34.3,-84.3
+INC-04,Flood,District D,Unknown,34.4,-84.4

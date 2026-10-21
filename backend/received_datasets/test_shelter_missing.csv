@@ -1,0 +1,3 @@
+incident_identifier,disaster_type,incident_location,priority_level,reported_casualties,injured_population,estimated_loss,latitude,longitude,incident_description
+TEST-01,Flood,Zone A,Unknown,0,0,25000,32.5,-85.0,Local street flooding
+TEST-02,Tornado,Zone B,Unknown,0,1,100000,32.6,-85.1,Tornado touched down briefly

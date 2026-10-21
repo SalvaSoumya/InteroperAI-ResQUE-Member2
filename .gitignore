@@ -1,0 +1,59 @@
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Logs and local databases
+*.log
+*.db
+*.sqlite
+*.sqlite3
+
+# Frontend dependencies and builds
+node_modules/
+dist/
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# Backup files
+*.bak
+*.bak_*
+
+# Generated processed data
+job-*_processed.csv
+
+# Screenshots
+shot.png
+# Backup files
+*.bak
+*.bak_*
+*_backup.jsx
+* copy.jsx
+
+# Generated processed datasets
+backend/received_datasets/*_processed.csv
+backend/received_datasets/job_*.csv
+backend/received_datasets/live-test-*.csv
+backend/received_datasets/verify-flow-*.csv
+backend/received_datasets/test-full-workflow-*.csv
+backend/received_datasets/test-real-remote-*.csv
+
+# Generated model evaluation data and artifacts
+backend/received_datasets/member2_hybrid_artifacts/
+backend/received_datasets/member2_ml_artifacts/
+# Generated model artifacts and evaluation outputs
+member2_hybrid_artifacts/
+member2_ml_artifacts/
+backend/received_datasets/member2_hybrid_artifacts/
+backend/received_datasets/member2_ml_artifacts/
